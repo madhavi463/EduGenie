@@ -1,25 +1,3 @@
-Skip to content
-Navigation Menu
-Sign in
-Premsai10-coder
-/
-EduGenie
-Public
-Code
-Issues
-Pull requests
-EduGenie
-/README.md
-author
-Sankar Danduprolu
-5 days ago
-348 lines (253 loc) · 8.69 KB
-
-Preview
-
-Code
-
-Blame
 🎓 EduGenie
 EduGenie is an AI-powered learning assistant built using FastAPI and Google Gemini API.
 
