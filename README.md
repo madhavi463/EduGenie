@@ -26,6 +26,7 @@ Open:
 http://127.0.0.1:8000
 Author
 Sankar Danduprolu
+madhavi satya sri vasamsetti
 
 ER Diagram
 Overview
